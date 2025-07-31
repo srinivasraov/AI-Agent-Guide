@@ -1,5 +1,7 @@
 # The Developer's Guide to AI Coding Agents: Cursor & Claude Code 🚀
 
+## IMPORTANT: [READ THIS FIRST](./SPEC_FIRST_DEVELOPMENT.md)
+
 ## Table of Contents
 
 ### Getting Started
