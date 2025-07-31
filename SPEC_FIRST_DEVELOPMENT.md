@@ -1,21 +1,21 @@
-# The Spec-First Approach to AI Agent Development: Sean Grover's Vision
+# The Spec-First Approach to AI Agent Development: Sean Grove's Vision
 
 ## Executive Summary
 
-Sean Grover, an alignment researcher at OpenAI, presents a transformative vision for the future of software development: specifications, not code, will become the primary engineering artifact. This document explores his spec-first approach, which fundamentally redefines programming as structured communication rather than code writing. According to Grover, as AI systems become more capable, the ability to write clear specifications that capture intent and values will become the most valuable programming skill.
+Sean Grove, an alignment researcher at OpenAI, presents a transformative vision for the future of software development: specifications, not code, will become the primary engineering artifact. This document explores his spec-first approach, which fundamentally redefines programming as structured communication rather than code writing. According to Grove, as AI systems become more capable, the ability to write clear specifications that capture intent and values will become the most valuable programming skill.
 
 ## Watch this video
 [The New Code - Sean Grove OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
 
 ## Introduction: The Paradigm Shift
 
-"Code is just a lossy projection of intent," argues Sean Grover. This provocative statement encapsulates a fundamental shift in how we should think about software development in the AI era. Grover's thesis centers on the idea that programming has always been about structured communication—understanding problems, defining solutions, and aligning teams—with code merely being one implementation detail among many.
+"Code is just a lossy projection of intent," argues Sean Grove. This provocative statement encapsulates a fundamental shift in how we should think about software development in the AI era. Grove's thesis centers on the idea that programming has always been about structured communication—understanding problems, defining solutions, and aligning teams—with code merely being one implementation detail among many.
 
 ## The Core Philosophy
 
 ### Beyond Traditional Coding
 
-Grover argues that traditional coding represents only 10-20% of a developer's value. The remaining 80-90% lies in what he calls "structured communication":
+Grove argues that traditional coding represents only 10-20% of a developer's value. The remaining 80-90% lies in what he calls "structured communication":
 
 - **Understanding user challenges**: Talking to users to grasp their actual problems
 - **Distilling requirements**: Converting vague needs into clear specifications
@@ -47,7 +47,7 @@ Instead of diving directly into code, the spec-first approach begins with writin
 
 ### 2. Universal Collaboration
 
-One of the most powerful aspects of specifications is their accessibility. As Grover notes about OpenAI's Model Spec:
+One of the most powerful aspects of specifications is their accessibility. As Grove notes about OpenAI's Model Spec:
 
 > "Because it is natural language, everyone, not just technical people, can contribute. Product, legal, safety, research, policy—they can all read, discuss, debate, and contribute to the same source code."
 
@@ -61,7 +61,7 @@ Specifications should be:
 
 ## Real-World Example: OpenAI's Model Spec
 
-OpenAI has implemented Grover's vision through their Model Spec, a public document that defines how their AI models should behave. This specification demonstrates several key principles:
+OpenAI has implemented Grove's vision through their Model Spec, a public document that defines how their AI models should behave. This specification demonstrates several key principles:
 
 ### Structure and Organization
 
@@ -92,7 +92,7 @@ The Model Spec approach has enabled:
 
 ## The Current Paradox
 
-Grover identifies a telling contradiction in current AI-assisted programming practices:
+Grove identifies a telling contradiction in current AI-assisted programming practices:
 
 > "When developers use AI to generate code, they typically provide detailed prompts describing their intentions—then throw those prompts away while carefully version-controlling the generated code. This feels like you shred the source and then very carefully version control the binary."
 
@@ -102,7 +102,7 @@ This practice reveals that we already recognize the value of specifications (pro
 
 ### 1. Prompt Engineering as Proto-Specifications
 
-Every time you write a prompt for an AI model, you're creating what Grover calls a "proto-specification." To apply spec-first principles:
+Every time you write a prompt for an AI model, you're creating what Grove calls a "proto-specification." To apply spec-first principles:
 
 - **Save your prompts**: Don't discard them after generating code
 - **Version control specifications**: Track how your requirements evolve
@@ -153,7 +153,7 @@ Specifications enable broader participation in development:
 
 ## The Expanding Pool of "Programmers"
 
-In Grover's vision, anyone who can write clear specifications becomes a programmer:
+In Grove's vision, anyone who can write clear specifications becomes a programmer:
 
 > "Whoever writes the spec—be it a PM, a lawmaker, an engineer, a marketer—is now the programmer."
 
@@ -174,7 +174,7 @@ While the vision is compelling, current tooling lags behind:
 
 ### Future Vision: "Integrated Thought Clarifiers"
 
-Grover envisions development environments that:
+Grove envisions development environments that:
 
 - **Identify ambiguities** in specifications before implementation
 - **Show immediate feedback** on how changes affect behavior
@@ -259,7 +259,7 @@ Current limitations include:
 
 ## The Future of Programming
 
-Grover's vision points to a future where:
+Grove's vision points to a future where:
 
 - **Communication skills** matter more than syntax knowledge
 - **Intent and values** are first-class citizens in development
@@ -270,7 +270,7 @@ As he puts it: "If you can communicate effectively, you can program."
 
 ## Conclusion
 
-Sean Grover's spec-first approach represents more than a methodological shift—it's a fundamental reimagining of what programming means in the AI era. By elevating specifications from documentation afterthoughts to primary artifacts, we can create software that better captures human intent, enables broader collaboration, and adapts more readily to changing needs.
+Sean Grove's spec-first approach represents more than a methodological shift—it's a fundamental reimagining of what programming means in the AI era. By elevating specifications from documentation afterthoughts to primary artifacts, we can create software that better captures human intent, enables broader collaboration, and adapts more readily to changing needs.
 
 The transition won't be immediate or easy. It requires new tools, new skills, and new ways of thinking. But for those willing to embrace this change, the rewards are substantial: faster development, safer systems, and the democratization of programming itself.
 
